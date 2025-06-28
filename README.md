@@ -23,32 +23,6 @@
 6. 🚀 [More](#more)
 
 
-## <a name="introduction">🤖 Introduction</a>
-
-Built with Next.js and Bunny.net, this Full Stack Screen Recording & Video Sharing Platform includes user authentication with "Better Auth", screen recording, video uploads, and the ability to share videos via link. Users can set videos as public or private, view AI-generated transcripts, and access metadata like video ID and URL. A built-in search bar makes finding content fast and simple.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-- **[Arcjet](https://jsm.dev/snapcast-arcjet)** is a developer-first security platform that integrates bot protection, rate limiting, email validation, and attack protection into your application with minimal code. It offers customizable protection for forms, login pages, and API routes, supporting frameworks like Node.js, Next.js, Deno, Bun, Remix, SvelteKit, and NestJS.
-
-- **[Bunny.net](https://jsm.dev/snapcast-bunny)** is a developer-friendly video delivery platform offering global CDN, edge storage, adaptive streaming, and a customizable player. It simplifies video management with features like automatic encoding, token-based security, and real-time analytics. Ideal for seamless, secure, and scalable video streaming.
-
-- **[Better Auth](https://www.better-auth.com/)** is a TypeScript-first authentication and authorization library that simplifies implementing secure login, two-factor authentication, and social sign-ins, all while supporting multi-tenancy. 
-  
-- **[Drizzle ORM](https://orm.drizzle.team/)** is a type-safe, lightweight ORM for SQL databases, providing a modern solution for interacting with databases using TypeScript, supporting migrations, queries, and schema management.  
-
-- **[Next.js](https://nextjs.org/)** is a powerful React framework that enables the development of fast, scalable web applications with features like server-side rendering, static site generation, and API routes for building full-stack applications. 
-
-- **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.  
-  
-- **[TypeScript](https://www.typescriptlang.org/)** is a superset of JavaScript that adds static typing, providing better tooling, code quality, and error detection for developers, making it ideal for building large-scale applications.
-
-- **[Xata](https://xata.io)** is a serverless PostgreSQL platform offering auto-scaling, zero-downtime schema migrations, real-time branching, and built-in full-text search. It provides a spreadsheet-like UI for intuitive data management, enhancing modern development workflows.
-
-
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication**: Secure user sign-up and sign-in with Better-Auth & Google.  
@@ -142,7 +116,7 @@ ARCJET_API_KEY=
 XATA_API_KEY=
 ```
 
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on: [Better-Auth](https://www.better-auth.com), [Google Cloud](https://console.cloud.google.com), [Bunny.net](https://jsm.dev/snapcast-bunny), [Xata.io](https://xata.io), [Arcjet](https://jsm.dev/snapcast-arcjet).
+
 
 **Running the Project**
 
